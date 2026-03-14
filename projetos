@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Projetos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="portifólio.html">Início</a>
+    <a href="sobremim.html">Sobre mim</a>
+
+</nav>
+
+<h1>Meus Projetos</h1>
+
+<ul>
+
+<li>
+<a href="https://github.com/JoaoLucasNAndre/portifolio/tree/main" target="_blank">
+<img src="https://sublime-deer-e691adf5e6.media.strapiapp.com/image_3a4bdfdbbf.png" width="300">
+</a>
+<p>Projeto 1 - Portfólio</p>
+</li>
+
+<li>
+<a href="https://github.com/JoaoLucasNAndre/Projeto-Harry-Potter/tree/main" target="_blank">
+<img src="https://sm.ign.com/t/ign_br/cover/h/harry-pott/harry-potter-the-series_s6p5.600.jpg" width="200">
+</a>
+<p>Projeto 2 - Harry Potter</p>
+</li>
+
+</ul>
+
+</body>
+</html>
