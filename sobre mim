@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre mim</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <a href="portifólio.html">Início</a>
+        <a href="projetos.html">Projetos</a>
+    </nav>
+
+    <h1>Sobre mim</h1>
+
+    <p>
+        Sou estudante do colégio IFPR, estou cursando TDS e já sei programar o básico em html e futuramente espero
+        programar em JavaScript
+    </p>
+
+    <h2>Habilidades atuais</h2>
+
+    <ul>
+        <li>Progamação básica em HTML</li>
+        <li>Progamação básica em Portugol</li>
+        <li>Links e imagens em HTML</li>
+    </ul>
+
+    <h2>Link do meu GitHub (não tenho linkedin)</h2>
+
+    <p>
+        GitHub: <a href="https://github.com/JoaoLucasNAndre" target="_blank">link</a>
+    </p>
+
+</body>
+
+</html>
